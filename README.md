@@ -21,10 +21,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Imtiyaz-Mirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Imtiyaz-Mirza" height="30" width="40" /></a>
-<a href="https://dev.to/imtiyaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="imtiyaz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imtiyaz-mirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imtiyaz-mirza" height="30" width="40" /></a>
 <a href="https://instagram.com/imtiyaz_mirza.999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imtiyaz_mirza.999" height="30" width="40" /></a>
-<a href="https://medium.com/@imtiyaz-mirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@imtiyaz-mirza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
