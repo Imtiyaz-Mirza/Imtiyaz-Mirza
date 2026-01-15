@@ -17,6 +17,7 @@
 - 📫 How to reach me **mirzaimtiyaz.999@gmail.com**
 
 - ⚡ Fun fact **Every day i wonder where and how much salary can i get insted of worrying about developing my skills even tho i don't know any thing.**
+- Curious **The only thing i know is to do what i should have to, But the the thing is insted of building i think iam just making things worst.**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
